@@ -1,6 +1,7 @@
 
 # 🚀 Cross-Chain NFT Dashboard
-
+![App Preview](https://i.ibb.co/cSt58Tvx/image.png)
+<br/>
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-blue?logo=tailwindcss&logoColor=white)
@@ -62,7 +63,7 @@ This project is built on a **"zero-build" philosophy**. It leverages modern brow
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/cross-chain-nft-dashboard.git
+git clone https://github.com/iamaanahmad/cross-chain-nft-dashboard.git
 cd cross-chain-nft-dashboard
 ```
 
