@@ -1,0 +1,6 @@
+{
+  "name": "Cross-Chain NFT Dashboard",
+  "description": "A single-page application that aggregates NFTs from Ethereum, Solana, and Polygon. Users can search collections, view traits and floor prices, and export CSV reports with AI-powered market analysis.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
